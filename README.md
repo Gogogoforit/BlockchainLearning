@@ -27,3 +27,17 @@
   - 链接：https://university.alchemy.com/course/ethereum/md/637d5145a31b8d0004561bfa
   - 语言：英语
   - 评价：暂无
+
+- Github《WTF Solidity 极简入门教程》
+  - 链接：https://github.com/AmazingAng/WTF-Solidity?tab=readme-ov-file
+  - 语言：中文
+  - 编程语言：Solidity
+  - 评价：暂无
+
+
+- smartcontractkit《Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition》
+  - 链接：https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+  - 语言：英语
+  - 编程语言：Python
+  - 评价：暂无
+- 
