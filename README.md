@@ -40,4 +40,12 @@
   - 语言：英语
   - 编程语言：Python
   - 评价：暂无
-- 
+
+- Solana《Solana Quick Start Guide》
+  - 链接：https://solana.com/docs/intro/quick-start
+    - https://github.com/Unboxed-Software/solana-course/tree/main
+  - 语言：英语
+  - 编程语言：Python
+  - 评价：暂无
+    
+  
