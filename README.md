@@ -45,7 +45,11 @@
   - 链接：https://solana.com/docs/intro/quick-start
     - https://github.com/Unboxed-Software/solana-course/tree/main
   - 语言：英语
-  - 编程语言：Python
+  - 编程语言：Solana
   - 评价：暂无
     
-  
+- Solana《Solana中文开发教程》
+  - 链接：https://www.solanazh.com/
+  - 语言：中文
+  - 编程语言：Solana
+  - 评价：暂无  
