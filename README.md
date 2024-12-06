@@ -19,7 +19,7 @@
 - biquanlibai《blockchain-course》
   - 链接：https://github.com/biquanlibai/blockchain-course?tab=readme-ov-file
   - 语言：中文
-  - 评价：很详细清晰，推荐
+  - 评价：很详细清晰，推荐，适合了解宏观的概念。不过内容稍显有点点过时
  
 
 # 入门实践
