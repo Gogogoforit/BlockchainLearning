@@ -32,7 +32,7 @@
   - 链接：https://github.com/AmazingAng/WTF-Solidity?tab=readme-ov-file
   - 语言：中文
   - 编程语言：Solidity
-  - 评价：暂无
+  - 评价：内容循序渐进，有大量的配图和代码，适合Solidity开发入门
 
 
 - smartcontractkit《Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition》
