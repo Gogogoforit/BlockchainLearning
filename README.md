@@ -52,4 +52,14 @@
   - 链接：https://www.solanazh.com/
   - 语言：中文
   - 编程语言：Solana
-  - 评价：暂无  
+  - 评价：暂无
+ 
+# 技术文章
+- 《Uniswap》技术介绍
+  - 链接：https://medium.com/@med456789d
+  - 语言：英语
+ 
+- 《在 Pump.fun 上吸引大玩家：如何讲好你的代币故事》
+  - 链接：https://mirror.xyz/0x46ed16F6BCb78d05d38E4765C10CF89e2a542D43/MsBa8YfDq0tFC-BuvjJLE1uE6LVt73MWlJTpMich2f8
+  - 语言：中文
+  - 
