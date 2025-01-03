@@ -54,6 +54,12 @@
   - 编程语言：Solana
   - 评价：暂无
  
+- Solana《Solana playground | 18 小时 Solana 最全教程 - 2024 训练营》
+  - 链接：https://www.youtube.com/watch?v=-IshjZPvBYI&list=PLv56Dy_F1m4N22VlUkVNsy4OzBVInPJWJ
+  - 语言：英语
+  - 编程语言：Solana
+  - 评价：暂无
+ 
 # 技术文章
 - 《Uniswap》技术介绍
   - 链接：https://medium.com/@med456789d
